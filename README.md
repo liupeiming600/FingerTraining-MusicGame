@@ -1,10 +1,12 @@
 # FingerTraining-MusicGame
 ****
-   
-研究背景：  
-脳卒中患者は、手の筋肉の回復は通常4ステージに分かれます。その最後の後遺症ステージのリハビリには、1〜2年の訓練が必要です。しかし、ハンドエクササイザーのような従来のトレーニングには、長期リハビリテーションのモチベーションがありません。  
-研究目的：音楽ゲームアプリケーションを使用して、患者のモチベーションを向上させるの研究です。  
-研究内容：１、Head-Mounted DisplayとWindowsシステム使って、自分開発のトレーニングデバイスをAR音楽ゲームシステムを開発する。でも、脳卒中患者は基本シニアです、重いデバイスとHMDは使用できません。  
-２、もと便利なトレーニングデバイスを開発して、スマートフォンとブルートゥースコネクタする。スマートフォン音楽ゲームシステムを開発する。  
-実装言語・使用ツール等：Unity 2017.4.37f1  
+
+Research background:  
+Stroke patients usually have four stages of hand muscle recovery. Rehabilitation of the last sequela stage requires 1-2 years of training. However, traditional training, such as a hand exerciser, has no motivation for long-term rehabilitation.  
+  
+Research Objective: The study of using a music game application to improve patient motivation.  
+Research content: 1. Using a Head-Mounted Display and a Windows system, develop an AR music game system with a training device of your own development. But stroke patients are basic seniors, heavy devices and HMDs are not available.  
+2. Develop a convenient training device and connect it to a smartphone and Bluetooth connector. Develop a smartphone music game system.  
+  
+Implementation language and tools used:Unity 2017.4.37f1   
 ![demo](https://github.com/liupeiming600/FingerTraining-MusicGame/blob/master/Takanohara%20hospital%20demo/demo.png)
